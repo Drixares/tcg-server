@@ -13,3 +13,6 @@ export const getCardsQuerySchema = z.object({
 export const getCardByIdParamsSchema = z.object({
   id: z.string(),
 });
+
+export type GetCardByIdParams = z.infer<typeof getCardByIdParamsSchema>;
+export type GetCardsQuery = z.infer<typeof getCardsQuerySchema>;

@@ -1,21 +1,12 @@
 import { and, eq, ilike, sql, type SQL } from "drizzle-orm";
 import { cards, db, sets, type Card } from "../../db";
-import type { ApiCard, ApiPaginatedResponse, CardType } from "../../types";
+import type { ApiCard, CardType } from "../../types";
 import {
   createPaginatedResponse,
   getPaginationMeta,
   parsePaginationParams,
 } from "../../utils/pagination";
-
-interface GetCardsQuery {
-  page?: string;
-  limit?: string;
-  name?: string;
-  type?: string;
-  color?: string;
-  rarity?: string;
-  set?: string;
-}
+import { GetCardsQuery } from "./validators";
 
 export class CardsController {
   private cardToApiCard(card: Card, setName: string | null): ApiCard {
@@ -39,7 +30,7 @@ export class CardsController {
     };
   }
 
-  private buildWhereClause(query: GetCardsQuery): SQL | undefined {
+  private buildWhereClause(query: GetCardsQuery) {
     const conditions: SQL[] = [];
 
     if (query.name) {
@@ -58,7 +49,7 @@ export class CardsController {
     return conditions.length > 0 ? and(...conditions) : undefined;
   }
 
-  async getAll(query: GetCardsQuery): Promise<ApiPaginatedResponse<ApiCard>> {
+  async getAll(query: GetCardsQuery) {
     const paginationParams = parsePaginationParams(query);
     const { offset, limit } = getPaginationMeta(paginationParams);
     const whereClause = this.buildWhereClause(query);
@@ -89,7 +80,7 @@ export class CardsController {
     return createPaginatedResponse(data, total, paginationParams);
   }
 
-  async getById(id: string): Promise<ApiCard | null> {
+  async getById(id: string) {
     const result = await db
       .select({
         card: cards,

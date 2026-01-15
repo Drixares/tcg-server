@@ -3,27 +3,27 @@ import { cardsController } from "./handler";
 import { getCardByIdParamsSchema, getCardsQuerySchema } from "./validators";
 
 export const cardsRoutes = new Elysia({ prefix: "/cards" })
-    .get(
-        "/",
-        async ({ query }) => {
-            return await cardsController.getAll(query);
-        },
-        {
-            query: getCardsQuerySchema,
-        },
-    )
-    .get(
-        "/:id",
-        async ({ params, status }) => {
-            const card = await cardsController.getById(params.id);
+  .get(
+    "/",
+    async ({ query }) => {
+      return await cardsController.getAll(query);
+    },
+    {
+      query: getCardsQuerySchema,
+    },
+  )
+  .get(
+    "/:id",
+    async ({ params, status }) => {
+      const card = await cardsController.getById(params.id);
 
-            if (!card) {
-                throw status(404);
-            }
+      if (!card) {
+        throw status(404);
+      }
 
-            return card;
-        },
-        {
-            params: getCardByIdParamsSchema,
-        },
-    );
+      return card;
+    },
+    {
+      params: getCardByIdParamsSchema,
+    },
+  );

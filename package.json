@@ -1,28 +1,32 @@
 {
-    "name": "tcg-server",
-    "version": "1.0.50",
-    "scripts": {
-        "test": "bun test",
-        "dev": "bun db:studio & bun run --watch src/index.ts",
-        "db:generate": "drizzle-kit generate",
-        "db:migrate": "drizzle-kit migrate",
-        "db:push": "drizzle-kit push",
-        "db:studio": "drizzle-kit studio",
-        "fetch-cards": "bun run scripts/fetch-cards.ts",
-        "seed": "bun run scripts/seed.ts"
-    },
-    "dependencies": {
-        "@elysiajs/eden": "^1.4.6",
-        "@elysiajs/openapi": "^1.4.13",
-        "@sinclair/typebox": "^0.34.47",
-        "drizzle-orm": "^0.45.1",
-        "elysia": "^1.4.22",
-        "postgres": "^3.4.8",
-        "zod": "^4.3.5"
-    },
-    "devDependencies": {
-        "bun-types": "latest",
-        "drizzle-kit": "^0.31.8"
-    },
-    "module": "src/index.js"
+  "name": "tcg-server",
+  "version": "1.0.50",
+  "scripts": {
+    "test": "bun test",
+    "dev": "bun db:studio & bun run --watch src/index.ts",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "drizzle-kit migrate",
+    "db:push": "drizzle-kit push",
+    "db:studio": "drizzle-kit studio",
+    "checks:fix": "prettier --write \"**/*.{ts,tsx,md,css}\"",
+    "checks": "prettier --check \"**/*.{ts,md}\"",
+    "fetch-cards": "bun run scripts/fetch-cards.ts",
+    "seed": "bun run scripts/seed.ts"
+  },
+  "dependencies": {
+    "@elysiajs/eden": "^1.4.6",
+    "@elysiajs/jwt": "^1.4.0",
+    "@elysiajs/openapi": "^1.4.13",
+    "@sinclair/typebox": "^0.34.47",
+    "drizzle-orm": "^0.45.1",
+    "elysia": "^1.4.22",
+    "postgres": "^3.4.8",
+    "zod": "^4.3.5"
+  },
+  "devDependencies": {
+    "bun-types": "latest",
+    "drizzle-kit": "^0.31.8",
+    "prettier": "3.8.0"
+  },
+  "module": "src/index.js"
 }

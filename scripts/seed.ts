@@ -146,7 +146,9 @@ async function main() {
   }
   const duplicateIds = [...idCounts.entries()].filter(([, count]) => count > 1);
   if (duplicateIds.length > 0) {
-    console.log(`   ⚠️  Found ${duplicateIds.length} duplicate IDs in source data:`);
+    console.log(
+      `   ⚠️  Found ${duplicateIds.length} duplicate IDs in source data:`,
+    );
     for (const [id, count] of duplicateIds.slice(0, 10)) {
       console.log(`      - "${id}" appears ${count} times`);
     }
@@ -175,7 +177,9 @@ async function main() {
   }
 
   if (allErrors.length > 0) {
-    console.log(`   ⚠️  Found ${allErrors.length} validation errors in ${invalidCards.length} cards:`);
+    console.log(
+      `   ⚠️  Found ${allErrors.length} validation errors in ${invalidCards.length} cards:`,
+    );
 
     // Group errors by field
     const errorsByField = new Map<string, ValidationError[]>();
@@ -188,7 +192,9 @@ async function main() {
     for (const [field, errors] of errorsByField) {
       console.log(`      - ${field}: ${errors.length} errors`);
       for (const error of errors.slice(0, 3)) {
-        console.log(`        Card "${error.cardId}" (index ${error.cardIndex}): ${error.message}`);
+        console.log(
+          `        Card "${error.cardId}" (index ${error.cardIndex}): ${error.message}`,
+        );
       }
       if (errors.length > 3) {
         console.log(`        ... and ${errors.length - 3} more`);
@@ -280,14 +286,17 @@ async function main() {
       }
     } catch (error) {
       errors++;
-      const errorMessage = error instanceof Error ? error.message : String(error);
+      const errorMessage =
+        error instanceof Error ? error.message : String(error);
       errorCards.push({ id: raw.id, error: errorMessage });
       console.log(`   ✗ Error inserting "${raw.id}": ${errorMessage}`);
     }
 
     // Progress log
     if ((i + 1) % 500 === 0 || i + 1 === validCards.length) {
-      console.log(`   Progress: ${i + 1}/${validCards.length} (inserted: ${inserted}, conflicts: ${conflicts}, errors: ${errors})`);
+      console.log(
+        `   Progress: ${i + 1}/${validCards.length} (inserted: ${inserted}, conflicts: ${conflicts}, errors: ${errors})`,
+      );
     }
   }
 
@@ -325,8 +334,12 @@ async function main() {
   }
 
   // Verify final count in database
-  const [countResult] = await db.select({ count: sql<number>`count(*)` }).from(cards);
-  const [setCountResult] = await db.select({ count: sql<number>`count(*)` }).from(sets);
+  const [countResult] = await db
+    .select({ count: sql<number>`count(*)` })
+    .from(cards);
+  const [setCountResult] = await db
+    .select({ count: sql<number>`count(*)` })
+    .from(sets);
   console.log(`\nDatabase state:`);
   console.log(`   Total cards in DB: ${countResult.count}`);
   console.log(`   Total sets in DB:  ${setCountResult.count}`);

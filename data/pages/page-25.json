@@ -1,0 +1,2593 @@
+[
+  {
+    "id": "P-022",
+    "code": "P-022",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-022.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-022.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 6000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "FILM/Supernovas/Straw Hat Crew",
+    "ability": "-",
+    "trigger": "",
+    "set": {
+      "name": "Included in FILM RED Promotion Card Set"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-023",
+    "code": "P-023",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Yasopp",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-023.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-023.png?250530"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 8000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "FILM/Red-Haired Pirates",
+    "ability": "-",
+    "trigger": "",
+    "set": {
+      "name": "Included in FILM RED Promotion Card Set"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-024",
+    "code": "P-024",
+    "rarity": "P",
+    "type": "EVENT",
+    "name": "I'm Gonna Be King of the Pirates!!",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-024.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-024.png?250530"
+    },
+    "cost": 2,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Green",
+    "family": "Supernovas/Straw Hat Crew",
+    "ability": "[Main] Your Leader gains +1000 power for each of your Characters during this turn.",
+    "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "set": {
+      "name": "Included in Pirates Party Card Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-025",
+    "code": "P-025",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Smoker",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-025.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-025.png?250530"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "-",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[DON!! x1] This Character cannot be K.O.'d in battle by Characters without the &lt;Special&gt; attribute.",
+    "trigger": "",
+    "set": {
+      "name": "Pre-Release OP02"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-026",
+    "code": "P-026",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Morgan",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-026.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-026.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[When Attacking] Give up to 1 of your opponent's Characters −3 cost during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Included in Pirates Party Card Vol.2"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-027",
+    "code": "P-027",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "General Franky",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-027.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-027.png?250530"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 4000,
+    "counter": "-",
+    "color": "Red",
+    "family": "Straw Hat Crew",
+    "ability": "Also treat this card's name as [Franky] according to the rules.<br>[Opponent's Turn] All of your Characters with 3000 base power or less gain +1000 power.",
+    "trigger": "",
+    "set": {
+      "name": "Included in Event Pack Vol.2"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-028",
+    "code": "P-028",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Portgas.D.Ace",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-028.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-028.png?250530"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 6000,
+    "counter": "-",
+    "color": "Red",
+    "family": "Whitebeard Pirates",
+    "ability": "[Double Attack] (This card deals 2 damage.)",
+    "trigger": "",
+    "set": {
+      "name": "Included in Event Pack Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-029",
+    "code": "P-029",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Bartolomeo",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-029.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-029.png?250530"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 3000,
+    "counter": "1000",
+    "color": "Green",
+    "family": "FILM/Supernovas/Barto Club",
+    "ability": "[End of Your Turn] You may rest this Character: Set up to 1 of your {FILM} type Characters other than [Bartolomeo] as active.",
+    "trigger": "",
+    "set": {
+      "name": "Included in Event Pack Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-030",
+    "code": "P-030",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Jinbe",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-030.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-030.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Fish-Man/The Seven Warlords of the Sea/The Sun Pirates",
+    "ability": "[On K.O.] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck.",
+    "trigger": "",
+    "set": {
+      "name": "Included in Event Pack Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-031",
+    "code": "P-031",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Uta",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-031.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-031.png?250530"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 6000,
+    "counter": "-",
+    "color": "Purple",
+    "family": "FILM",
+    "ability": "[On Play] Add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": "",
+    "set": {
+      "name": "Included in Event Pack Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-032",
+    "code": "P-032",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Sengoku",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-032.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-032.png?250530"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": 6000,
+    "counter": "-",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[DON!! x1] [Your Turn] Give all of your opponent's Characters −2 cost.",
+    "trigger": "",
+    "set": {
+      "name": "Included in Event Pack Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-033",
+    "code": "P-033",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-033.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-033.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Straw Hat Crew",
+    "ability": "[Activate: Main] You may place this Character at the bottom of the owner's deck: Draw 1 card.",
+    "trigger": "",
+    "set": {
+      "name": "Included in Event Pack Vol.2"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-034",
+    "code": "P-034",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Sanji",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-034.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-034.png?250530"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 4000,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "The Vinsmoke Family",
+    "ability": "[DON!! x1] [Your Turn] If you have 2 or less Life cards, this Character gains +2000 power.",
+    "trigger": "",
+    "set": {
+      "name": "Included in Event Pack Vol.2"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-035",
+    "code": "P-035",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-035.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-035.png?250530"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 6000,
+    "counter": "-",
+    "color": "Black",
+    "family": "Straw Hat Crew",
+    "ability": "[DON!! x1] [When Attacking] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+    "trigger": "",
+    "set": {
+      "name": "Pirates Party Vol.3"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-036",
+    "code": "P-036",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-036.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-036.png?250530"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 4000,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "Land of Wano/Straw Hat Crew",
+    "ability": "[When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character and up to 1 of your Leader gain +1000 power during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Pre-Release OP04"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-037",
+    "code": "P-037",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-037.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-037.png?250530"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 4000,
+    "counter": "-",
+    "color": "Green",
+    "family": "Straw Hat Crew",
+    "ability": "[When Attacking] If you have 2 or more rested Characters, this Character gains +1000 power during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Anime Expo 2023"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-039",
+    "code": "P-039",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Bellamy",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-039.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-039.png?250530"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 6000,
+    "counter": "-",
+    "color": "Yellow",
+    "family": "Bellamy Pirates",
+    "ability": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)<br>[DON!! x2] If you have 0 Life cards, this Character gains +2000 power.",
+    "trigger": "",
+    "set": {
+      "name": "Pirates Party Vol.4"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-041",
+    "code": "P-041",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-041.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-041.png?250530"
+    },
+    "cost": 10,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 12000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "The Four Emperors/Straw Hat Crew",
+    "ability": "-",
+    "trigger": "",
+    "set": {
+      "name": "Pirates Party Vol.5"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-041_p1",
+    "code": "P-041",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-041_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-041_p1.png?250530"
+    },
+    "cost": 10,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 12000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "The Four Emperors/Straw Hat Crew",
+    "ability": "-",
+    "trigger": "",
+    "set": {
+      "name": "Offline Regional Participation Pack 2024 Vol. 2"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-042",
+    "code": "P-042",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Roronoa Zoro",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-042.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-042.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "Land of Wano/Straw Hat Crew",
+    "ability": "-",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "set": {
+      "name": "Event Pack Vol.3"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-043",
+    "code": "P-043",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-043.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-043.png?250530"
+    },
+    "cost": 7,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 7000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Straw Hat Crew",
+    "ability": "[On Play] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+    "trigger": "",
+    "set": {
+      "name": "Dreamhack Dallas 2024"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-045",
+    "code": "P-045",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Roronoa Zoro",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-045.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-045.png?250530"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 7000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "Straw Hat Crew",
+    "ability": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
+    "trigger": "",
+    "set": {
+      "name": "Pre-Release OP06"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-045_p1",
+    "code": "P-045",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Roronoa Zoro",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-045_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-045_p1.png?250530"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 7000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "Straw Hat Crew",
+    "ability": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
+    "trigger": "",
+    "set": {
+      "name": "ST15-20 Release Event"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-046",
+    "code": "P-046",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Yamato",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-046.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-046.png?250530"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 2000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "Land of Wano",
+    "ability": "[On Play] You may place all cards in your hand at the bottom of your deck in any order. If you do, draw cards equal to the number you placed at the bottom of your deck.",
+    "trigger": "",
+    "set": {
+      "name": "Event Pack Vol.3"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-047",
+    "code": "P-047",
+    "rarity": "P",
+    "type": "LEADER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-047.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-047.png?250530"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 5000,
+    "counter": "-",
+    "color": "Blue",
+    "family": "Straw Hat Crew",
+    "ability": "[DON!! x1] [When Attacking] Draw 1 card if you have 3 or less cards in your hand.",
+    "trigger": "",
+    "set": {
+      "name": "Sealed Battle 2023 Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-048",
+    "code": "P-048",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Arlong",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-048.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-048.png?250530"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 4000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Fish-Man/Arlong Pirates",
+    "ability": "[DON!! x1] [When Attacking] If you have 4 or more Life cards, your opponent places 1 card from their hand at the bottom of their deck.",
+    "trigger": "",
+    "set": {
+      "name": "Sealed Battle 2023 Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-049",
+    "code": "P-049",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Usopp",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-049.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-049.png?250530"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 3000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Straw Hat Crew",
+    "ability": "[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "Sealed Battle 2023 Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-050",
+    "code": "P-050",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Sanji",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-050.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-050.png?250530"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 2000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Straw Hat Crew",
+    "ability": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [Your Turn] If you have 3 or less cards in your hand, this Character gains +4000 power.",
+    "trigger": "",
+    "set": {
+      "name": "Sealed Battle 2023 Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-051",
+    "code": "P-051",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Shanks",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-051.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-051.png?250530"
+    },
+    "cost": 7,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 9000,
+    "counter": "-",
+    "color": "Blue",
+    "family": "Red-Haired Pirates",
+    "ability": "[When Attacking] You may trash any number of cards from your hand. This Character gains +1000 power during this battle for every card trashed.",
+    "trigger": "",
+    "set": {
+      "name": "Sealed Battle 2023 Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-052",
+    "code": "P-052",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Dracule Mihawk",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-052.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-052.png?250530"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 7000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "The Seven Warlords of the Sea",
+    "ability": "[DON!! x1] This Character cannot be K.O.'d in battle by &lt;Slash&gt; attribute cards.",
+    "trigger": "",
+    "set": {
+      "name": "Sealed Battle Kit Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-053",
+    "code": "P-053",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Nami",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-053.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-053.png?250530"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": 1000,
+    "counter": "2000",
+    "color": "Blue",
+    "family": "Straw Hat Crew",
+    "ability": "[On Play] If you have 3 or less cards in your hand, return up to 1 of your opponent's Characters with a cost of 3 or less to the owner's hand.",
+    "trigger": "",
+    "set": {
+      "name": "Sealed Battle Kit Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-054",
+    "code": "P-054",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Garp",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-054.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-054.png?250530"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 7000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Navy",
+    "ability": "[DON!! x1] This Character cannot be K.O.'d in battle by &lt;Strike&gt; attribute cards.",
+    "trigger": "",
+    "set": {
+      "name": "Sealed Battle Kit Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-055",
+    "code": "P-055",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-055.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-055.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Straw Hat Crew",
+    "ability": "[On Play] You may trash 2 cards from your hand: Your opponent places 1 of their Characters at the bottom of the owner's deck.",
+    "trigger": "",
+    "set": {
+      "name": "Sealed Battle Kit Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-056",
+    "code": "P-056",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Roronoa Zoro",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-056.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-056.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 6000,
+    "counter": "-",
+    "color": "Blue",
+    "family": "Straw Hat Crew",
+    "ability": "[On Play] ➁ (You may rest the specified number of DON!! cards in your cost area.): Return up to 1 Character with a cost of 5 or less to the owner's hand.",
+    "trigger": "",
+    "set": {
+      "name": "Sealed Battle Kit Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-057",
+    "code": "P-057",
+    "rarity": "P",
+    "type": "EVENT",
+    "name": "Fleeting Lullaby",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-057.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-057.png?250530"
+    },
+    "cost": 3,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Green",
+    "family": "Music/FILM",
+    "ability": "[Main] If your Leader is [Uta], up to 2 of your opponent's rested Characters with a cost of 4 or less will not become active in your opponent's next Refresh Phase.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "set": {
+      "name": "ST-11 Uta Deck Battle Participation Pack"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-058",
+    "code": "P-058",
+    "rarity": "P",
+    "type": "EVENT",
+    "name": "Where the Wind Blows",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-058.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-058.png?250530"
+    },
+    "cost": 2,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Green",
+    "family": "Music/FILM",
+    "ability": "[Main] If your Leader is [Uta], set all of your {FILM} type Characters as active at the end of this turn.",
+    "trigger": "[Trigger] Set all of your {FILM} type Characters as active.",
+    "set": {
+      "name": "ST-11 Uta Deck Battle Participation Pack"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-059",
+    "code": "P-059",
+    "rarity": "P",
+    "type": "EVENT",
+    "name": "The World's Continuation",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-059.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-059.png?250530"
+    },
+    "cost": 2,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Green",
+    "family": "Music/FILM",
+    "ability": "[Counter] If your Leader is [Uta], you may return any number of Characters on your field to the owner's hand. Up to 1 of your Leader or Character cards gains +2000 power during this battle for every returned Character.",
+    "trigger": "",
+    "set": {
+      "name": "ST-11 Uta Deck Battle Participation Pack"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-060",
+    "code": "P-060",
+    "rarity": "P",
+    "type": "EVENT",
+    "name": "Tot Musica",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-060.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-060.png?250530"
+    },
+    "cost": 2,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Green",
+    "family": "Music/FILM",
+    "ability": "[Main] You may rest 1 of your [Uta] cards: Rest up to 2 of your opponent's DON!! cards.",
+    "trigger": "",
+    "set": {
+      "name": "ST-11 Uta Deck Battle Participation Pack"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-061",
+    "code": "P-061",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-061.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-061.png?250530"
+    },
+    "cost": 8,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 10000,
+    "counter": "1000",
+    "color": "Green",
+    "family": "FILM/Straw Hat Crew",
+    "ability": "-",
+    "trigger": "",
+    "set": {
+      "name": "ST-11 Uta Deck Battle Participation Pack"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-062",
+    "code": "P-062",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Hody & Hyouzou",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-062.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-062.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Slash/Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type06.png"
+    },
+    "power": 6000,
+    "counter": "-",
+    "color": "Green",
+    "family": "Fish-Man/Merfolk/New Fish-Man Pirates",
+    "ability": "[Activate: Main] [Once Per Turn] Rest up to 1 of your opponent's Characters with a cost of 4 or less and this Character gains +1000 power during this turn. Then, add 1 card from the top of your Life cards to your hand.",
+    "trigger": "",
+    "set": {
+      "name": "Pirates Party Vol.6"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-065",
+    "code": "P-065",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Tony Tony.Chopper",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-065.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-065.png?250530"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": 4000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Animal/Straw Hat Crew",
+    "ability": "[When Attacking] If your opponent has a Character with a cost of 0, this Character gains +2000 power until the start of your next turn.",
+    "trigger": "",
+    "set": {
+      "name": "Event Pack Vol.5"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-068",
+    "code": "P-068",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Sanji",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-068.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-068.png?250530"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 4000,
+    "counter": "2000",
+    "color": "Blue",
+    "family": "Kingdom of GERMA/The Vinsmoke Family",
+    "ability": "[Activate: Main] You may trash this Character: Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "Pirates Party Vol.7"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-069",
+    "code": "P-069",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Koala",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-069.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-069.png?250530"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 1000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Revolutionary Army",
+    "ability": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "trigger": "",
+    "set": {
+      "name": "Event Pack Vol.5"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-070",
+    "code": "P-070",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Carrot",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-070.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-070.png?250530"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 2000,
+    "counter": "1000",
+    "color": "Green",
+    "family": "Minks",
+    "ability": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "",
+    "set": {
+      "name": "Event Pack Vol.6"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-071",
+    "code": "P-071",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Marco",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-071.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-071.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 6000,
+    "counter": "-",
+    "color": "Blue",
+    "family": "Whitebeard Pirates",
+    "ability": "[On K.O.] You may add this Character card to your hand.",
+    "trigger": "",
+    "set": {
+      "name": "Pre-Release OP08"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-076",
+    "code": "P-076",
+    "rarity": "P",
+    "type": "LEADER",
+    "name": "Sakazuki",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-076.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-076.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "-",
+    "color": "Blue/Black",
+    "family": "Navy",
+    "ability": "[Activate: Main] [Once Per Turn] You may trash 1 {Navy} type card from your hand: Give up to 1 of your opponent's Characters －1 cost during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Pirates Party Vol.7"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-077",
+    "code": "P-077",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Ulti",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-077.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-077.png?250530"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 6000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "Animal Kingdom Pirates",
+    "ability": "[Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and rest it. Then, set up to 1 of your purple Stages as active.",
+    "trigger": "",
+    "set": {
+      "name": "Event Pack Vol.6"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-078",
+    "code": "P-078",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Adio",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 5000,
+    "counter": "2000",
+    "color": "Green",
+    "family": "ODYSSEY",
+    "ability": "If you have 2 or more rested {ODYSSEY} type Characters, this Character gains +1000 power.",
+    "trigger": "",
+    "set": {
+      "name": "Offline Regional Participation Pack 2025 Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-078_p1",
+    "code": "P-078",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Adio",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078_p1.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 5000,
+    "counter": "2000",
+    "color": "Green",
+    "family": "ODYSSEY",
+    "ability": "If you have 2 or more rested {ODYSSEY} type Characters, this Character gains +1000 power.",
+    "trigger": "",
+    "set": {
+      "name": "Offline Regional Finalist Card Set 25-26 Season 1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-078_p2",
+    "code": "P-078",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Adio",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078_p2.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078_p2.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 5000,
+    "counter": "2000",
+    "color": "Green",
+    "family": "ODYSSEY",
+    "ability": "If you have 2 or more rested {ODYSSEY} type Characters, this Character gains +1000 power.",
+    "trigger": "",
+    "set": {
+      "name": "Offline Regional Champion Card Set 25-26 Season 1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-078_p3",
+    "code": "P-078",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Adio",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078_p3.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078_p3.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 5000,
+    "counter": "2000",
+    "color": "Green",
+    "family": "ODYSSEY",
+    "ability": "If you have 2 or more rested {ODYSSEY} type Characters, this Character gains +1000 power.",
+    "trigger": "",
+    "set": {
+      "name": "Online Regional Participation Pack 25-26 Season 1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-078_p4",
+    "code": "P-078",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Adio",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078_p4.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078_p4.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 5000,
+    "counter": "2000",
+    "color": "Green",
+    "family": "ODYSSEY",
+    "ability": "If you have 2 or more rested {ODYSSEY} type Characters, this Character gains +1000 power.",
+    "trigger": "",
+    "set": {
+      "name": "Online Regional Finalist Card Set 25-26 Season 1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-078_p5",
+    "code": "P-078",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Adio",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078_p5.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078_p5.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 5000,
+    "counter": "2000",
+    "color": "Green",
+    "family": "ODYSSEY",
+    "ability": "If you have 2 or more rested {ODYSSEY} type Characters, this Character gains +1000 power.",
+    "trigger": "",
+    "set": {
+      "name": "Online Regional Champion Card Set 25-26 Season 1"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-079",
+    "code": "P-079",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Lim",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-079.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-079.png?250530"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": null,
+    "counter": "1000",
+    "color": "Green",
+    "family": "ODYSSEY",
+    "ability": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[End of Your Turn] If you have 2 or more rested {ODYSSEY} type Characters, set this Character as active.",
+    "trigger": "",
+    "set": {
+      "name": "Event Pack Vol.6"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-083",
+    "code": "P-083",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Shanks",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-083.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-083.png?250530"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 7000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "The Four Emperors/Red-Haired Pirates",
+    "ability": "[DON!! x1] [When Attacking] You may trash 1 Character card from your hand: Give up to 1 of your opponent's Characters −1000 power during this turn. Then, draw 1 card.",
+    "trigger": "",
+    "set": {
+      "name": "Event Pack Vol.6"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-088",
+    "code": "P-088",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Trafalgar Law",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-088.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-088.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 5000,
+    "counter": "2000",
+    "color": "Yellow",
+    "family": "Supernovas/Heart Pirates",
+    "ability": "-",
+    "trigger": "[Trigger] If your Leader has the {Supernovas} type and you and your opponent have a total of 5 or less Life cards, play this card.",
+    "set": {
+      "name": "Event Pack vol.7"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-090",
+    "code": "P-090",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Charlotte Smoothie",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-090.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-090.png?250530"
+    },
+    "cost": 7,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 7000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "Big Mom Pirates",
+    "ability": "[Opponent's Turn] [On K.O.] DON!! −1: Play up to 1 {Big Mom Pirates} type Character card with a cost equal to or less than the number of DON!! cards on your opponent's field other than [Charlotte Smoothie] from your hand.",
+    "trigger": "",
+    "set": {
+      "name": "Event Pack vol.7"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-091",
+    "code": "P-091",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Shirahoshi",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-091.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-091.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": null,
+    "counter": "1000",
+    "color": "Green",
+    "family": "Merfolk/Fish-Man Island",
+    "ability": "[On Play] Play up to 1 {Neptunian} or {Fish-Man Island} type Character card with a cost of 5 or less from your hand.<br>[Activate: Main] You may rest this Character: Up to 1 of your {Neptunian} type Characters can attack Characters on the turn in which it is played.",
+    "trigger": "",
+    "set": {
+      "name": "Event Pack vol.7"
+    },
+    "notes": []
+  },
+  {
+    "id": "P-092",
+    "code": "P-092",
+    "rarity": "P",
+    "type": "CHARACTER",
+    "name": "Koby",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/P-092.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/P-092.png?250530"
+    },
+    "cost": 7,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 7000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Navy/SWORD",
+    "ability": "[Opponent's Turn] Give this Character −3000 power.<br>[When Attacking] If your Leader has the {Navy} type, your Leader's base power becomes 7000 until the end of your opponent's next turn.",
+    "trigger": "",
+    "set": {
+      "name": "Event Pack vol.7"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST01-004_p1",
+    "code": "ST01-004",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Sanji",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004_p1.png?250530"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 4000,
+    "counter": "-",
+    "color": "Red",
+    "family": "Straw Hat Crew",
+    "ability": "[DON!! x2] This Character gains [Rush].<br>(This card can attack on the turn in which it is played.)",
+    "trigger": "",
+    "set": {
+      "name": "Included in Online Regional Participation Pack Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST01-007_p2",
+    "code": "ST01-007",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Nami",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p2.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p2.png?250530"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 1000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Straw Hat Crew",
+    "ability": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "trigger": "",
+    "set": {
+      "name": "Tournament Pack Vol.3"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST01-007_p4",
+    "code": "ST01-007",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Nami",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p4.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p4.png?250530"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 1000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Straw Hat Crew",
+    "ability": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "trigger": "",
+    "set": {
+      "name": "2025 NEW YEAR EVENT"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST01-007_p5",
+    "code": "ST01-007",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Nami",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p5.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p5.png?250530"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 1000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Straw Hat Crew",
+    "ability": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "trigger": "",
+    "set": {
+      "name": "2025 NEW YEAR EVENT"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST01-009_p1",
+    "code": "ST01-009",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Nefeltari Vivi",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-009_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-009_p1.png?250530"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 4000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Alabasta",
+    "ability": "-",
+    "trigger": "",
+    "set": {
+      "name": "Pre-Release OP03"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST01-011_p2",
+    "code": "ST01-011",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Brook",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p2.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p2.png?250530"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 3000,
+    "counter": "2000",
+    "color": "Red",
+    "family": "Straw Hat Crew",
+    "ability": "[On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+    "trigger": "",
+    "set": {
+      "name": "Tournament Pack Vol.4"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST01-012_p4",
+    "code": "ST01-012",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p4.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p4.png?250530"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 6000,
+    "counter": "-",
+    "color": "Red",
+    "family": "Supernovas/Straw Hat Crew",
+    "ability": "[Rush] (This card can attack on the turn in which it is played.)<br>[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
+    "trigger": "",
+    "set": {
+      "name": "Tournament Pack Vol.5"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST01-015_p1",
+    "code": "ST01-015",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "Gum-Gum Jet Pistol",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-015_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-015_p1.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Red",
+    "family": "Supernovas/Straw Hat Crew",
+    "ability": "[Main] K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "set": {
+      "name": "Offline Regional Participation Pack 2024 Vol. 1"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST02-007_p1",
+    "code": "ST02-007",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Jewelry Bonney",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-007_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-007_p1.png?250530"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 1000,
+    "counter": "1000",
+    "color": "Green",
+    "family": "Supernovas/Bonney Pirates",
+    "ability": "[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may rest this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "Tournament Pack Vol.3"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST02-008_p1",
+    "code": "ST02-008",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Scratchmen Apoo",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-008_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-008_p1.png?250530"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 3000,
+    "counter": "2000",
+    "color": "Green",
+    "family": "Supernovas/On-Air Pirates",
+    "ability": "[DON!! x1] [When Attacking] Rest up to 1 of your opponent's DON!! cards.",
+    "trigger": "",
+    "set": {
+      "name": "Offline Regional Participation Pack 2024 Vol. 1"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST02-013_p1",
+    "code": "ST02-013",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Eustass\"Captain\"Kid",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-013_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-013_p1.png?250530"
+    },
+    "cost": 7,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 7000,
+    "counter": "-",
+    "color": "Green",
+    "family": "Supernovas/Kid Pirates",
+    "ability": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [End of Your Turn] Set this Character as active.",
+    "trigger": "",
+    "set": {
+      "name": "Tournament Pack Vol.5"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST03-003_p1",
+    "code": "ST03-003",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Crocodile",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-003_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-003_p1.png?250530"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 6000,
+    "counter": "-",
+    "color": "Blue",
+    "family": "The Seven Warlords of the Sea/Baroque Works",
+    "ability": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [On Block] Place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck.",
+    "trigger": "",
+    "set": {
+      "name": "Tournament Pack Vol.5"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST03-005_p1",
+    "code": "ST03-005",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Dracule Mihawk",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_p1.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 5000,
+    "counter": "2000",
+    "color": "Blue",
+    "family": "The Seven Warlords of the Sea",
+    "ability": "[DON!! x1] [When Attacking] Draw 2 cards and trash 2 cards from your hand.",
+    "trigger": "",
+    "set": {
+      "name": "Tournament Pack Vol.4"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST03-007_p1",
+    "code": "ST03-007",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Sentomaru",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-007_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-007_p1.png?250530"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 4000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Navy",
+    "ability": "[DON!! x1] [Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Play up to 1 [Pacifista] with a cost of 4 or less from your deck, then shuffle your deck.",
+    "trigger": "",
+    "set": {
+      "name": "Tournament Pack Vol.3"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST03-008_p2",
+    "code": "ST03-008",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Trafalgar Law",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p2.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p2.png?250530"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 1000,
+    "counter": "-",
+    "color": "Blue",
+    "family": "The Seven Warlords of the Sea/Heart Pirates",
+    "ability": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "",
+    "set": {
+      "name": "Event Pack Vol.3"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST03-008_p3",
+    "code": "ST03-008",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Trafalgar Law",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p3.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p3.png?250530"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 1000,
+    "counter": "-",
+    "color": "Blue",
+    "family": "The Seven Warlords of the Sea/Heart Pirates",
+    "ability": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "",
+    "set": {
+      "name": "Offline Regional Participation Pack 2024 Vol. 2"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST03-014_p1",
+    "code": "ST03-014",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Marshall.D.Teach",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-014_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-014_p1.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 4000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "The Seven Warlords of the Sea/Blackbeard Pirates",
+    "ability": "[On Play] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+    "trigger": "",
+    "set": {
+      "name": "Included in Online Regional Participation Pack Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST04-003_p2",
+    "code": "ST04-003",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Kaido",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-003_p2.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-003_p2.png?250530"
+    },
+    "cost": 9,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 10000,
+    "counter": "-",
+    "color": "Purple",
+    "family": "The Four Emperors/Animal Kingdom Pirates",
+    "ability": "[On Play] DON!! −5 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 6 or less. This Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
+    "trigger": "",
+    "set": {
+      "name": "Tournament Pack Vol.5"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST04-008_p1",
+    "code": "ST04-008",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Jack",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-008_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-008_p1.png?250530"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 4000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "Animal Kingdom Pirates",
+    "ability": "[On Play] You may trash 1 card from your hand: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "trigger": "",
+    "set": {
+      "name": "Included in Online Regional Participation Pack Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST04-010_p1",
+    "code": "ST04-010",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Who's.Who",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-010_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-010_p1.png?250530"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 3000,
+    "counter": "-",
+    "color": "Purple",
+    "family": "Animal Kingdom Pirates",
+    "ability": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "trigger": "[Trigger] Play this card.",
+    "set": {
+      "name": "Tournament Pack Vol.3"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST04-011_p1",
+    "code": "ST04-011",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Black Maria",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-011_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-011_p1.png?250530"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 2000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "Animal Kingdom Pirates",
+    "ability": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "",
+    "set": {
+      "name": "Tournament Pack Vol.2"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST06-006_p1",
+    "code": "ST06-006",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Tashigi",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-006_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-006_p1.png?250530"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 4000,
+    "counter": "2000",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Tournament Pack Vol.4"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST06-006_p3",
+    "code": "ST06-006",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Tashigi",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-006_p3.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-006_p3.png?250530"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 4000,
+    "counter": "2000",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "ST15-20 Release Event"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST07-008_p1",
+    "code": "ST07-008",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Charlotte Pudding",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-008_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-008_p1.png?250530"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": 3000,
+    "counter": "2000",
+    "color": "Yellow",
+    "family": "Big Mom Pirates",
+    "ability": "[On Play] Look at up to 1 card from the top of yours or your opponent's Life cards, and place it at the top or bottom of the Life cards.",
+    "trigger": "",
+    "set": {
+      "name": "Included in Online Regional Participation Pack Vol.1"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST10-006_p1",
+    "code": "ST10-006",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-006_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-006_p1.png?250530"
+    },
+    "cost": 10,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 11000,
+    "counter": "-",
+    "color": "Red",
+    "family": "Straw Hat Crew",
+    "ability": "[Rush] (This card can attack on the turn in which it is played.)<br>[Once Per Turn] When your opponent activates a [Blocker], K.O. up to 1 of your opponent's Characters with 8000 power or less.",
+    "trigger": "",
+    "set": {
+      "name": "Regional 2024 wave1"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST10-006_p4",
+    "code": "ST10-006",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-006_p4.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-006_p4.png?250530"
+    },
+    "cost": 10,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 11000,
+    "counter": "-",
+    "color": "Red",
+    "family": "Straw Hat Crew",
+    "ability": "[Rush] (This card can attack on the turn in which it is played.)<br>[Once Per Turn] When your opponent activates a [Blocker], K.O. up to 1 of your opponent's Characters with 8000 power or less.",
+    "trigger": "",
+    "set": {
+      "name": "ONE PIECE DAY Dallas -Card Game Celebration-"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST10-010_p1",
+    "code": "ST10-010",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Trafalgar Law",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-010_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-010_p1.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "Heart Pirates",
+    "ability": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your opponent has 7 or more cards in their hand, trash 2 cards from your opponent's hand.",
+    "trigger": "",
+    "set": {
+      "name": "Regional 2024 wave1"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST10-013_p1",
+    "code": "ST10-013",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Eustass\"Captain\"Kid",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-013_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-013_p1.png?250530"
+    },
+    "cost": 7,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 8000,
+    "counter": "-",
+    "color": "Purple",
+    "family": "Kid Pirates",
+    "ability": "[On Play]/[When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Up to 1 of your Leader gains +1000 power until the start of your next turn.",
+    "trigger": "",
+    "set": {
+      "name": "Regional 2024 wave1"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST11-003_p1",
+    "code": "ST11-003",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "Backlight",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-003_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-003_p1.png?250530"
+    },
+    "cost": 2,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Green",
+    "family": "Music/FILM",
+    "ability": "[Main] If your Leader is [Uta], choose one:<br>• Rest up to 1 of your opponent's Characters with a cost of 5 or less.<br>• K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.",
+    "trigger": "",
+    "set": {
+      "name": "ST-11 Uta Deck Battle Participation Pack"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST11-004_p1",
+    "code": "ST11-004",
+    "rarity": "SR",
+    "type": "EVENT",
+    "name": "New Genesis",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-004_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-004_p1.png?250530"
+    },
+    "cost": 1,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Green",
+    "family": "Music/FILM",
+    "ability": "[Main] If your Leader is [Uta], look at 3 cards from the top of your deck; reveal up to 1 {FILM} type card other than [New Genesis] and add it to your hand. Then, place the rest at the bottom of your deck in any order and set up to 1 of your DON!! cards as active.",
+    "trigger": "",
+    "set": {
+      "name": "ST-11 Uta Deck Battle Participation Pack"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST11-005_p1",
+    "code": "ST11-005",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "I'm invincible",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-005_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-005_p1.png?250530"
+    },
+    "cost": 3,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Green",
+    "family": "Music/FILM",
+    "ability": "[Main] Set up to 1 of your [Uta] Leader as active.",
+    "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "set": {
+      "name": "ST-11 Uta Deck Battle Participation Pack"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST12-008_p1",
+    "code": "ST12-008",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Roronoa Zoro",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-008_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-008_p1.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 6000,
+    "counter": "-",
+    "color": "Green",
+    "family": "Straw Hat Crew",
+    "ability": "[DON!! x1] [When Attacking] Rest up to 1 of your opponent's Characters with a cost of 6 or less.",
+    "trigger": "",
+    "set": {
+      "name": "Treasure Cup August – September"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST13-003_p2",
+    "code": "ST13-003",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-003_p2.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-003_p2.png?250530"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 5000,
+    "counter": "-",
+    "color": "Black/Yellow",
+    "family": "Supernovas/Straw Hat Crew",
+    "ability": "Your face-up Life cards are placed at the bottom of your deck instead of being added to your hand, according to the rules.<br>[DON!! x2] [Activate: Main] [Once Per Turn] You may trash 1 card from your hand: If you have 0 Life cards, add up to 2 Character cards with a cost of 5 from your hand or trash to the top of your Life cards face-up.",
+    "trigger": "",
+    "set": {
+      "name": "ONE PIECE CARD GAME and Football Team DORTMUND collaboration event"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST18-003_p1",
+    "code": "ST18-003",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "San-Gorou",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-003_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-003_p1.png?250530"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 6000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "Straw Hat Crew",
+    "ability": "[When Attacking] [Once Per Turn] If you have 8 or more DON!! cards on your field, draw 1 card.",
+    "trigger": "",
+    "set": {
+      "name": "Treasure Cup February 2025"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST19-002_p1",
+    "code": "ST19-002",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Sengoku",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST19-002_p1.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST19-002_p1.png?250530"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": 1000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[On Play] You may trash 2 black {Navy} type cards from your hand: If your Leader has the {Navy} type, draw 3 cards.",
+    "trigger": "",
+    "set": {
+      "name": "Tournament Pack 2025 Vol. 3"
+    },
+    "notes": []
+  },
+  {
+    "id": "ST19-002_p2",
+    "code": "ST19-002",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Sengoku",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/ST19-002_p2.png?250530",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/ST19-002_p2.png?250530"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": 1000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[On Play] You may trash 2 black {Navy} type cards from your hand: If your Leader has the {Navy} type, draw 3 cards.",
+    "trigger": "",
+    "set": {
+      "name": "Winner Pack 2025 Vol. 3"
+    },
+    "notes": []
+  },
+  {
+    "id": "EB01-006_p5",
+    "code": "EB01-006",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Tony Tony.Chopper",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-006_p5.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-006_p5.png?241220"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 4000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Animal/Straw Hat Crew",
+    "ability": "[Blocker] (After your opponent declares an attack, you may\n                    rest this card to make it the new target of the attack.)<br>[DON!!\n                    x2] [When Attacking] Give up to 1 of your opponent's\n                    Characters −3000 power during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-006_p2",
+    "code": "OP01-006",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Otama",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006_p2.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": null,
+    "counter": "2000",
+    "color": "Red",
+    "family": "Land of Wano",
+    "ability": "[On Play] Give up to 1 of your opponent's Characters −2000\n                    power during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-006_p3",
+    "code": "OP01-006",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Otama",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006_p3.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": null,
+    "counter": "2000",
+    "color": "Red",
+    "family": "Land of Wano",
+    "ability": "[On Play] Give up to 1 of your opponent's Characters −2000\n                    power during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-006_p4",
+    "code": "OP01-006",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Otama",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006_p4.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": null,
+    "counter": "2000",
+    "color": "Red",
+    "family": "Land of Wano",
+    "ability": "[On Play] Give up to 1 of your opponent's Characters −2000\n                    power during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-006_p5",
+    "code": "OP01-006",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Otama",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006_p5.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006_p5.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": null,
+    "counter": "2000",
+    "color": "Red",
+    "family": "Land of Wano",
+    "ability": "[On Play] Give up to 1 of your opponent's Characters −2000\n                    power during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  }
+]

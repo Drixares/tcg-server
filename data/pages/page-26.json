@@ -1,0 +1,2575 @@
+[
+  {
+    "id": "OP01-016_p8",
+    "code": "OP01-016",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Nami",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016_p8.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016_p8.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 2000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Straw Hat Crew",
+    "ability": "[On Play] Look at 5 cards from the top of your deck; reveal\n                    up to 1 {Straw Hat Crew} type card other than [Nami] and add\n                    it to your hand. Then, place the rest at the bottom of your\n                    deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-024_p2",
+    "code": "OP01-024",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-024_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-024_p2.png?241220"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 3000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Supernovas/Straw Hat Crew",
+    "ability": "[DON!! x2] This Character cannot be K.O.'d in battle by\n                    &lt;Strike&gt; attribute Characters.<br>[Activate: Main]\n                    [Once Per Turn] Give this Character up to 2 rested DON!!\n                    cards.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-024_p3",
+    "code": "OP01-024",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-024_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-024_p3.png?241220"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 3000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Supernovas/Straw Hat Crew",
+    "ability": "[DON!! x2] This Character cannot be K.O.'d in battle by\n                    &lt;Strike&gt; attribute Characters.<br>[Activate: Main]\n                    [Once Per Turn] Give this Character up to 2 rested DON!!\n                    cards.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-029_p1",
+    "code": "OP01-029",
+    "rarity": "UC",
+    "type": "EVENT",
+    "name": "Radical Beam!!",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-029_p1.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-029_p1.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Red",
+    "family": "Straw Hat Crew",
+    "ability": "[Counter] Up to 1 of your Leader or Character cards gains\n                    +2000 power during this battle. Then, if you have 2 or less\n                    Life cards, that card gains an additional +2000 power.",
+    "trigger": "\n                    \n                    [Trigger] Up to 1 of your Leader or Character cards gains\n                    +1000 power during this turn.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-029_p2",
+    "code": "OP01-029",
+    "rarity": "UC",
+    "type": "EVENT",
+    "name": "Radical Beam!!",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-029_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-029_p2.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Red",
+    "family": "Straw Hat Crew",
+    "ability": "[Counter] Up to 1 of your Leader or Character cards gains\n                    +2000 power during this battle. Then, if you have 2 or less\n                    Life cards, that card gains an additional +2000 power.",
+    "trigger": "\n                    \n                    [Trigger] Up to 1 of your Leader or Character cards gains\n                    +1000 power during this turn.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-029_p3",
+    "code": "OP01-029",
+    "rarity": "UC",
+    "type": "EVENT",
+    "name": "Radical Beam!!",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-029_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-029_p3.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Red",
+    "family": "Straw Hat Crew",
+    "ability": "[Counter] Up to 1 of your Leader or Character cards gains\n                    +2000 power during this battle. Then, if you have 2 or less\n                    Life cards, that card gains an additional +2000 power.",
+    "trigger": "\n                    \n                    [Trigger] Up to 1 of your Leader or Character cards gains\n                    +1000 power during this turn.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-033_p2",
+    "code": "OP01-033",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Izo",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-033_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-033_p2.png?241220"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 3000,
+    "counter": "2000",
+    "color": "Green",
+    "family": "Land of Wano/Former Whitebeard Pirates",
+    "ability": "[On Play] Rest up to 1 of your opponent's Characters with a\n                    cost of 4 or less.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-033_p3",
+    "code": "OP01-033",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Izo",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-033_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-033_p3.png?241220"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 3000,
+    "counter": "2000",
+    "color": "Green",
+    "family": "Land of Wano/Former Whitebeard Pirates",
+    "ability": "[On Play] Rest up to 1 of your opponent's Characters with a\n                    cost of 4 or less.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-033_p4",
+    "code": "OP01-033",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Izo",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-033_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-033_p4.png?241220"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 3000,
+    "counter": "2000",
+    "color": "Green",
+    "family": "Land of Wano/Former Whitebeard Pirates",
+    "ability": "[On Play] Rest up to 1 of your opponent's Characters with a\n                    cost of 4 or less.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-033_p5",
+    "code": "OP01-033",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Izo",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-033_p5.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-033_p5.png?241220"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 3000,
+    "counter": "2000",
+    "color": "Green",
+    "family": "Land of Wano/Former Whitebeard Pirates",
+    "ability": "[On Play] Rest up to 1 of your opponent's Characters with a\n                    cost of 4 or less.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-041_p2",
+    "code": "OP01-041",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Kouzuki Momonosuke",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-041_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-041_p2.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": null,
+    "counter": "1000",
+    "color": "Green",
+    "family": "Land of Wano/Kouzuki Clan",
+    "ability": "[Activate: Main] ➀ (You may rest the specified number of\n                    DON!! cards in your cost area.) You may rest this Character:\n                    Look at 5 cards from the top of your deck; reveal up to 1\n                    {Land of Wano} type card and add it to your hand. Then,\n                    place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-041_p3",
+    "code": "OP01-041",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Kouzuki Momonosuke",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-041_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-041_p3.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": null,
+    "counter": "1000",
+    "color": "Green",
+    "family": "Land of Wano/Kouzuki Clan",
+    "ability": "[Activate: Main] ➀ (You may rest the specified number of\n                    DON!! cards in your cost area.) You may rest this Character:\n                    Look at 5 cards from the top of your deck; reveal up to 1\n                    {Land of Wano} type card and add it to your hand. Then,\n                    place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-041_p4",
+    "code": "OP01-041",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Kouzuki Momonosuke",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-041_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-041_p4.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": null,
+    "counter": "1000",
+    "color": "Green",
+    "family": "Land of Wano/Kouzuki Clan",
+    "ability": "[Activate: Main] ➀ (You may rest the specified number of\n                    DON!! cards in your cost area.) You may rest this Character:\n                    Look at 5 cards from the top of your deck; reveal up to 1\n                    {Land of Wano} type card and add it to your hand. Then,\n                    place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-041_p5",
+    "code": "OP01-041",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Kouzuki Momonosuke",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-041_p5.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-041_p5.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": null,
+    "counter": "1000",
+    "color": "Green",
+    "family": "Land of Wano/Kouzuki Clan",
+    "ability": "[Activate: Main] ➀ (You may rest the specified number of\n                    DON!! cards in your cost area.) You may rest this Character:\n                    Look at 5 cards from the top of your deck; reveal up to 1\n                    {Land of Wano} type card and add it to your hand. Then,\n                    place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-047_p3",
+    "code": "OP01-047",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Trafalgar Law",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-047_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-047_p3.png?241220"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 6000,
+    "counter": "-",
+    "color": "Green",
+    "family": "Supernovas/Heart Pirates",
+    "ability": "[Blocker] (After your opponent declares an attack, you may\n                    rest this card to make it the new target of the attack.)<br>[On\n                    Play] You may return 1 of your Characters to the owner's\n                    hand: Play up to 1 Character card with a cost of 3 or less\n                    from your hand.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-047_p4",
+    "code": "OP01-047",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Trafalgar Law",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-047_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-047_p4.png?241220"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 6000,
+    "counter": "-",
+    "color": "Green",
+    "family": "Supernovas/Heart Pirates",
+    "ability": "[Blocker] (After your opponent declares an attack, you may\n                    rest this card to make it the new target of the attack.)<br>[On\n                    Play] You may return 1 of your Characters to the owner's\n                    hand: Play up to 1 Character card with a cost of 3 or less\n                    from your hand.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-051_p3",
+    "code": "OP01-051",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Eustass\"Captain\"Kid",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-051_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-051_p3.png?241220"
+    },
+    "cost": 8,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 8000,
+    "counter": "-",
+    "color": "Green",
+    "family": "Supernovas/Kid Pirates",
+    "ability": "[DON!! x1] [Opponent's Turn] If this Character is rested,\n                    your opponent cannot attack any card other than the\n                    Character [Eustass\"Captain\"Kid].<br>[Activate: Main] [Once\n                    Per Turn] You may rest this Character: Play up to 1\n                    Character card with a cost of 3 or less from your hand.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-051_p4",
+    "code": "OP01-051",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Eustass\"Captain\"Kid",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-051_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-051_p4.png?241220"
+    },
+    "cost": 8,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 8000,
+    "counter": "-",
+    "color": "Green",
+    "family": "Supernovas/Kid Pirates",
+    "ability": "[DON!! x1] [Opponent's Turn] If this Character is rested,\n                    your opponent cannot attack any card other than the\n                    Character [Eustass\"Captain\"Kid].<br>[Activate: Main] [Once\n                    Per Turn] You may rest this Character: Play up to 1\n                    Character card with a cost of 3 or less from your hand.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-052_p2",
+    "code": "OP01-052",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Raizo",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-052_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-052_p2.png?241220"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 4000,
+    "counter": "1000",
+    "color": "Green",
+    "family": "Land of Wano/The Akazaya Nine",
+    "ability": "[When Attacking] [Once Per Turn] If you have 2 or more\n                    rested Characters, draw 1 card.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-052_p3",
+    "code": "OP01-052",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Raizo",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-052_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-052_p3.png?241220"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 4000,
+    "counter": "1000",
+    "color": "Green",
+    "family": "Land of Wano/The Akazaya Nine",
+    "ability": "[When Attacking] [Once Per Turn] If you have 2 or more\n                    rested Characters, draw 1 card.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-052_p4",
+    "code": "OP01-052",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Raizo",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-052_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-052_p4.png?241220"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 4000,
+    "counter": "1000",
+    "color": "Green",
+    "family": "Land of Wano/The Akazaya Nine",
+    "ability": "[When Attacking] [Once Per Turn] If you have 2 or more\n                    rested Characters, draw 1 card.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-070_p3",
+    "code": "OP01-070",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Dracule Mihawk",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-070_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-070_p3.png?241220"
+    },
+    "cost": 9,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 9000,
+    "counter": "-",
+    "color": "Blue",
+    "family": "The Seven Warlords of the Sea",
+    "ability": "[On Play] Place up to 1 Character with a cost of 7 or less\n                    at the bottom of the owner's deck.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-070_p4",
+    "code": "OP01-070",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Dracule Mihawk",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-070_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-070_p4.png?241220"
+    },
+    "cost": 9,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 9000,
+    "counter": "-",
+    "color": "Blue",
+    "family": "The Seven Warlords of the Sea",
+    "ability": "[On Play] Place up to 1 Character with a cost of 7 or less\n                    at the bottom of the owner's deck.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-078_p3",
+    "code": "OP01-078",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Boa Hancock",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-078_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-078_p3.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "The Seven Warlords of the Sea/Kuja Pirates",
+    "ability": "[Blocker] (After your opponent declares an attack, you may\n                    rest this card to make it the new target of the attack.)<br>[DON!!\n                    x1] [When Attacking]/[On Block] Draw 1 card if you have 5 or\n                    less cards in your hand.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-078_p4",
+    "code": "OP01-078",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Boa Hancock",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-078_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-078_p4.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "The Seven Warlords of the Sea/Kuja Pirates",
+    "ability": "[Blocker] (After your opponent declares an attack, you may\n                    rest this card to make it the new target of the attack.)<br>[DON!!\n                    x1] [When Attacking]/[On Block] Draw 1 card if you have 5 or\n                    less cards in your hand.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-120_p3",
+    "code": "OP01-120",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Shanks",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-120_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-120_p3.png?241220"
+    },
+    "cost": 9,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 10000,
+    "counter": "-",
+    "color": "Red",
+    "family": "The Four Emperors/Red-Haired Pirates",
+    "ability": "[Rush] (This card can attack on the turn in which it is\n                    played.)<br>[When Attacking] Your opponent cannot activate\n                    a [Blocker] Character that has 2000 or less power during\n                    this battle.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-120_p4",
+    "code": "OP01-120",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Shanks",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-120_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-120_p4.png?241220"
+    },
+    "cost": 9,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 10000,
+    "counter": "-",
+    "color": "Red",
+    "family": "The Four Emperors/Red-Haired Pirates",
+    "ability": "[Rush] (This card can attack on the turn in which it is\n                    played.)<br>[When Attacking] Your opponent cannot activate\n                    a [Blocker] Character that has 2000 or less power during\n                    this battle.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-120_p5",
+    "code": "OP01-120",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Shanks",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-120_p5.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-120_p5.png?241220"
+    },
+    "cost": 9,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 10000,
+    "counter": "-",
+    "color": "Red",
+    "family": "The Four Emperors/Red-Haired Pirates",
+    "ability": "[Rush] (This card can attack on the turn in which it is\n                    played.)<br>[When Attacking] Your opponent cannot activate\n                    a [Blocker] Character that has 2000 or less power during\n                    this battle.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-121_p3",
+    "code": "OP01-121",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Yamato",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-121_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-121_p3.png?241220"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Green",
+    "family": "Land of Wano",
+    "ability": "Also treat this card's name as [Kouzuki Oden] according to\n                    the rules.<br>[Double Attack] (This card deals 2\n                    damage.)<br>[Banish] (When this card deals damage, the\n                    target card is trashed without activating its Trigger.)",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP01-121_p4",
+    "code": "OP01-121",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Yamato",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-121_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-121_p4.png?241220"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Green",
+    "family": "Land of Wano",
+    "ability": "Also treat this card's name as [Kouzuki Oden] according to\n                    the rules.<br>[Double Attack] (This card deals 2\n                    damage.)<br>[Banish] (When this card deals damage, the\n                    target card is trashed without activating its Trigger.)",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-004_p3",
+    "code": "OP02-004",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Edward.Newgate",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-004_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-004_p3.png?241220"
+    },
+    "cost": 9,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 10000,
+    "counter": "-",
+    "color": "Red",
+    "family": "The Four Emperors/Whitebeard Pirates",
+    "ability": "[On Play] Up to 1 of your Leader gains +2000 power until the\n                    start of your next turn. Then, you cannot add Life cards to\n                    your hand using your own effects during this turn.<br>[DON!!\n                    x2] [When Attacking] K.O. up to 1 of your opponent's\n                    Characters with 3000 power or less.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-004_p4",
+    "code": "OP02-004",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Edward.Newgate",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-004_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-004_p4.png?241220"
+    },
+    "cost": 9,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 10000,
+    "counter": "-",
+    "color": "Red",
+    "family": "The Four Emperors/Whitebeard Pirates",
+    "ability": "[On Play] Up to 1 of your Leader gains +2000 power until the\n                    start of your next turn. Then, you cannot add Life cards to\n                    your hand using your own effects during this turn.<br>[DON!!\n                    x2] [When Attacking] K.O. up to 1 of your opponent's\n                    Characters with 3000 power or less.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-013_p4",
+    "code": "OP02-013",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Portgas.D.Ace",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-013_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-013_p4.png?241220"
+    },
+    "cost": 7,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 7000,
+    "counter": "-",
+    "color": "Red",
+    "family": "Whitebeard Pirates",
+    "ability": "[On Play] Give up to 2 of your opponent's Characters −3000\n                    power during this turn. Then, if your Leader's type includes\n                    \"Whitebeard Pirates\", this Character gains [Rush] during\n                    this turn.<br>(This card can attack on the turn in which\n                    it is played.)",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-015_p2",
+    "code": "OP02-015",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Makino",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-015_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-015_p2.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": null,
+    "counter": "2000",
+    "color": "Red",
+    "family": "Windmill Village",
+    "ability": "[Activate: Main] You may rest this Character: Up to 1 of\n                    your red Characters with a cost of 1 gains +3000 power\n                    during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-015_p3",
+    "code": "OP02-015",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Makino",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-015_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-015_p3.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": null,
+    "counter": "2000",
+    "color": "Red",
+    "family": "Windmill Village",
+    "ability": "[Activate: Main] You may rest this Character: Up to 1 of\n                    your red Characters with a cost of 1 gains +3000 power\n                    during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-015_p4",
+    "code": "OP02-015",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Makino",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-015_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-015_p4.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": null,
+    "counter": "2000",
+    "color": "Red",
+    "family": "Windmill Village",
+    "ability": "[Activate: Main] You may rest this Character: Up to 1 of\n                    your red Characters with a cost of 1 gains +3000 power\n                    during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-018_p3",
+    "code": "OP02-018",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Marco",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-018_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-018_p3.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Whitebeard Pirates",
+    "ability": "[Blocker] (After your opponent declares an attack, you may\n                    rest this card to make it the new target of the attack.)<br>[On\n                    K.O.] You may trash 1 card with a type including \"Whitebeard\n                    Pirates\" from your hand: If you have 2 or less Life cards,\n                    play this Character card from your trash rested.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-018_p4",
+    "code": "OP02-018",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Marco",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-018_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-018_p4.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Whitebeard Pirates",
+    "ability": "[Blocker] (After your opponent declares an attack, you may\n                    rest this card to make it the new target of the attack.)<br>[On\n                    K.O.] You may trash 1 card with a type including \"Whitebeard\n                    Pirates\" from your hand: If you have 2 or less Life cards,\n                    play this Character card from your trash rested.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-018_p5",
+    "code": "OP02-018",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Marco",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-018_p5.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-018_p5.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Whitebeard Pirates",
+    "ability": "[Blocker] (After your opponent declares an attack, you may\n                    rest this card to make it the new target of the attack.)<br>[On\n                    K.O.] You may trash 1 card with a type including \"Whitebeard\n                    Pirates\" from your hand: If you have 2 or less Life cards,\n                    play this Character card from your trash rested.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-018_p6",
+    "code": "OP02-018",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Marco",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-018_p6.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-018_p6.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Whitebeard Pirates",
+    "ability": "[Blocker] (After your opponent declares an attack, you may\n                    rest this card to make it the new target of the attack.)<br>[On\n                    K.O.] You may trash 1 card with a type including \"Whitebeard\n                    Pirates\" from your hand: If you have 2 or less Life cards,\n                    play this Character card from your trash rested.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-089_p1",
+    "code": "OP02-089",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "Judgment of Hell",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-089_p1.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-089_p1.png?241220"
+    },
+    "cost": 2,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Purple",
+    "family": "Impel Down",
+    "ability": "[Counter] DON!! −1 (You may return the specified number of\n                    DON!! cards from your field to your DON!! deck.): Give up to\n                    a total of 2 of your opponent's Leader or Character cards\n                    −3000 power during this turn.",
+    "trigger": "\n                    \n                    [Trigger] If your opponent has 6 or more DON!! cards on\n                    their field, your opponent returns 1 DON!! card from their\n                    field to their DON!! deck.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-089_p2",
+    "code": "OP02-089",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "Judgment of Hell",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-089_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-089_p2.png?241220"
+    },
+    "cost": 2,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Purple",
+    "family": "Impel Down",
+    "ability": "[Counter] DON!! −1 (You may return the specified number of\n                    DON!! cards from your field to your DON!! deck.): Give up to\n                    a total of 2 of your opponent's Leader or Character cards\n                    −3000 power during this turn.",
+    "trigger": "\n                    \n                    [Trigger] If your opponent has 6 or more DON!! cards on\n                    their field, your opponent returns 1 DON!! card from their\n                    field to their DON!! deck.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-089_p3",
+    "code": "OP02-089",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "Judgment of Hell",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-089_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-089_p3.png?241220"
+    },
+    "cost": 2,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Purple",
+    "family": "Impel Down",
+    "ability": "[Counter] DON!! −1 (You may return the specified number of\n                    DON!! cards from your field to your DON!! deck.): Give up to\n                    a total of 2 of your opponent's Leader or Character cards\n                    −3000 power during this turn.",
+    "trigger": "\n                    \n                    [Trigger] If your opponent has 6 or more DON!! cards on\n                    their field, your opponent returns 1 DON!! card from their\n                    field to their DON!! deck.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-089_p4",
+    "code": "OP02-089",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "Judgment of Hell",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-089_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-089_p4.png?241220"
+    },
+    "cost": 2,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Purple",
+    "family": "Impel Down",
+    "ability": "[Counter] DON!! −1 (You may return the specified number of\n                    DON!! cards from your field to your DON!! deck.): Give up to\n                    a total of 2 of your opponent's Leader or Character cards\n                    −3000 power during this turn.",
+    "trigger": "\n                    \n                    [Trigger] If your opponent has 6 or more DON!! cards on\n                    their field, your opponent returns 1 DON!! card from their\n                    field to their DON!! deck.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-096_p2",
+    "code": "OP02-096",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Kuzan",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-096_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-096_p2.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "-",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[On Play] Draw 1 card.<br>[When Attacking] Give up to 1 of\n                    your opponent's Characters −4 cost during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-096_p3",
+    "code": "OP02-096",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Kuzan",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-096_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-096_p3.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "-",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[On Play] Draw 1 card.<br>[When Attacking] Give up to 1 of\n                    your opponent's Characters −4 cost during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-099_p3",
+    "code": "OP02-099",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Sakazuki",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-099_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-099_p3.png?241220"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 7000,
+    "counter": "-",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[On Play] You may trash 1 card from your hand: K.O. up to 1\n                    of your opponent's Characters with a cost of 5 or less.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-099_p4",
+    "code": "OP02-099",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Sakazuki",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-099_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-099_p4.png?241220"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 7000,
+    "counter": "-",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[On Play] You may trash 1 card from your hand: K.O. up to 1\n                    of your opponent's Characters with a cost of 5 or less.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-106_p3",
+    "code": "OP02-106",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Tsuru",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-106_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-106_p3.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": null,
+    "counter": "2000",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[On Play] Give up to 1 of your opponent's Characters −2 cost\n                    during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-106_p4",
+    "code": "OP02-106",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Tsuru",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-106_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-106_p4.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": null,
+    "counter": "2000",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[On Play] Give up to 1 of your opponent's Characters −2 cost\n                    during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-106_p5",
+    "code": "OP02-106",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Tsuru",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-106_p5.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-106_p5.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": null,
+    "counter": "2000",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[On Play] Give up to 1 of your opponent's Characters −2 cost\n                    during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-114_p2",
+    "code": "OP02-114",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Borsalino",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-114_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-114_p2.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[Opponent's Turn] This Character gains +1000 power and\n                    cannot be K.O.'d by effects.<br>[Blocker] (After your\n                    opponent declares an attack, you may rest this card to make\n                    it the new target of the attack.)",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-114_p3",
+    "code": "OP02-114",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Borsalino",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-114_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-114_p3.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[Opponent's Turn] This Character gains +1000 power and\n                    cannot be K.O.'d by effects.<br>[Blocker] (After your\n                    opponent declares an attack, you may rest this card to make\n                    it the new target of the attack.)",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-117_p4",
+    "code": "OP02-117",
+    "rarity": "UC",
+    "type": "EVENT",
+    "name": "Ice Age",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-117_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-117_p4.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[Main] Give up to 1 of your opponent's Characters −5 cost\n                    during this turn.",
+    "trigger": "\n                    \n                    [Trigger] K.O. up to 1 of your opponent's Characters with a\n                    cost of 3 or less.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-117_p5",
+    "code": "OP02-117",
+    "rarity": "UC",
+    "type": "EVENT",
+    "name": "Ice Age",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-117_p5.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-117_p5.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[Main] Give up to 1 of your opponent's Characters −5 cost\n                    during this turn.",
+    "trigger": "\n                    \n                    [Trigger] K.O. up to 1 of your opponent's Characters with a\n                    cost of 3 or less.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-117_p6",
+    "code": "OP02-117",
+    "rarity": "UC",
+    "type": "EVENT",
+    "name": "Ice Age",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-117_p6.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-117_p6.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[Main] Give up to 1 of your opponent's Characters −5 cost\n                    during this turn.",
+    "trigger": "\n                    \n                    [Trigger] K.O. up to 1 of your opponent's Characters with a\n                    cost of 3 or less.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-121_p2",
+    "code": "OP02-121",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Kuzan",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-121_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-121_p2.png?241220"
+    },
+    "cost": 10,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 10000,
+    "counter": "-",
+    "color": "Black",
+    "family": "Former Navy",
+    "ability": "[Your Turn] Give all of your opponent's Characters −5\n                    cost.<br>[On Play] K.O. up to 1 of your opponent's\n                    Characters with a cost of 0.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP02-121_p3",
+    "code": "OP02-121",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Kuzan",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-121_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-121_p3.png?241220"
+    },
+    "cost": 10,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 10000,
+    "counter": "-",
+    "color": "Black",
+    "family": "Former Navy",
+    "ability": "[Your Turn] Give all of your opponent's Characters −5\n                    cost.<br>[On Play] K.O. up to 1 of your opponent's\n                    Characters with a cost of 0.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-003_p3",
+    "code": "OP03-003",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Izo",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-003_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-003_p3.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 2000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Land of Wano/Whitebeard Pirates",
+    "ability": "[On Play] Look at 5 cards from the top of your deck; reveal\n                    up to 1 card with a type including \"Whitebeard Pirates\"\n                    other than [Izo] and add it to your hand. Then, place the\n                    rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-003_p4",
+    "code": "OP03-003",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Izo",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-003_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-003_p4.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 2000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Land of Wano/Whitebeard Pirates",
+    "ability": "[On Play] Look at 5 cards from the top of your deck; reveal\n                    up to 1 card with a type including \"Whitebeard Pirates\"\n                    other than [Izo] and add it to your hand. Then, place the\n                    rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-003_p5",
+    "code": "OP03-003",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Izo",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-003_p5.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-003_p5.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 2000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Land of Wano/Whitebeard Pirates",
+    "ability": "[On Play] Look at 5 cards from the top of your deck; reveal\n                    up to 1 card with a type including \"Whitebeard Pirates\"\n                    other than [Izo] and add it to your hand. Then, place the\n                    rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-003_p6",
+    "code": "OP03-003",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Izo",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-003_p6.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-003_p6.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 2000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Land of Wano/Whitebeard Pirates",
+    "ability": "[On Play] Look at 5 cards from the top of your deck; reveal\n                    up to 1 card with a type including \"Whitebeard Pirates\"\n                    other than [Izo] and add it to your hand. Then, place the\n                    rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-055_p1",
+    "code": "OP03-055",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "Gum-Gum Giant Gavel",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-055_p1.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-055_p1.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Blue",
+    "family": "East Blue/Straw Hat Crew",
+    "ability": "[Counter] You may trash 1 card from your hand: Up to 1 of\n                    your Leader gains +4000 power during this battle. Then, you\n                    may trash 2 cards from the top of your deck.",
+    "trigger": "\n                    \n                    [Trigger] Return up to 1 Character with a cost of 4 or less\n                    to the owner's hand.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-055_p2",
+    "code": "OP03-055",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "Gum-Gum Giant Gavel",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-055_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-055_p2.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Blue",
+    "family": "East Blue/Straw Hat Crew",
+    "ability": "[Counter] You may trash 1 card from your hand: Up to 1 of\n                    your Leader gains +4000 power during this battle. Then, you\n                    may trash 2 cards from the top of your deck.",
+    "trigger": "\n                    \n                    [Trigger] Return up to 1 Character with a cost of 4 or less\n                    to the owner's hand.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-055_p3",
+    "code": "OP03-055",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "Gum-Gum Giant Gavel",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-055_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-055_p3.png?241220"
+    },
+    "cost": 1,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Blue",
+    "family": "East Blue/Straw Hat Crew",
+    "ability": "[Counter] You may trash 1 card from your hand: Up to 1 of\n                    your Leader gains +4000 power during this battle. Then, you\n                    may trash 2 cards from the top of your deck.",
+    "trigger": "\n                    \n                    [Trigger] Return up to 1 Character with a cost of 4 or less\n                    to the owner's hand.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-056_p1",
+    "code": "OP03-056",
+    "rarity": "UC",
+    "type": "EVENT",
+    "name": "Sanji's Pilaf",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-056_p1.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-056_p1.png?241220"
+    },
+    "cost": 3,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Blue",
+    "family": "East Blue",
+    "ability": "[Main] Draw 2 cards.",
+    "trigger": "\n                    \n                    [Trigger] Activate this card's [Main] effect.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-056_p2",
+    "code": "OP03-056",
+    "rarity": "UC",
+    "type": "EVENT",
+    "name": "Sanji's Pilaf",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-056_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-056_p2.png?241220"
+    },
+    "cost": 3,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Blue",
+    "family": "East Blue",
+    "ability": "[Main] Draw 2 cards.",
+    "trigger": "\n                    \n                    [Trigger] Activate this card's [Main] effect.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-056_p3",
+    "code": "OP03-056",
+    "rarity": "UC",
+    "type": "EVENT",
+    "name": "Sanji's Pilaf",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-056_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-056_p3.png?241220"
+    },
+    "cost": 3,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Blue",
+    "family": "East Blue",
+    "ability": "[Main] Draw 2 cards.",
+    "trigger": "\n                    \n                    [Trigger] Activate this card's [Main] effect.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-056_p4",
+    "code": "OP03-056",
+    "rarity": "UC",
+    "type": "EVENT",
+    "name": "Sanji's Pilaf",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-056_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-056_p4.png?241220"
+    },
+    "cost": 3,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Blue",
+    "family": "East Blue",
+    "ability": "[Main] Draw 2 cards.",
+    "trigger": "\n                    \n                    [Trigger] Activate this card's [Main] effect.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-057_p1",
+    "code": "OP03-057",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "Three Thousand Worlds",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-057_p1.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-057_p1.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Blue",
+    "family": "East Blue/Straw Hat Crew",
+    "ability": "[Main] Place up to 1 Character with a cost of 5 or less at\n                    the bottom of the owner's deck.",
+    "trigger": "\n                    \n                    [Trigger] Place up to 1 Character with a cost of 3 or less\n                    at the bottom of the owner's deck.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-057_p2",
+    "code": "OP03-057",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "Three Thousand Worlds",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-057_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-057_p2.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Blue",
+    "family": "East Blue/Straw Hat Crew",
+    "ability": "[Main] Place up to 1 Character with a cost of 5 or less at\n                    the bottom of the owner's deck.",
+    "trigger": "\n                    \n                    [Trigger] Place up to 1 Character with a cost of 3 or less\n                    at the bottom of the owner's deck.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-057_p3",
+    "code": "OP03-057",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "Three Thousand Worlds",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-057_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-057_p3.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Blue",
+    "family": "East Blue/Straw Hat Crew",
+    "ability": "[Main] Place up to 1 Character with a cost of 5 or less at\n                    the bottom of the owner's deck.",
+    "trigger": "\n                    \n                    [Trigger] Place up to 1 Character with a cost of 3 or less\n                    at the bottom of the owner's deck.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-057_p4",
+    "code": "OP03-057",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "Three Thousand Worlds",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-057_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-057_p4.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Blue",
+    "family": "East Blue/Straw Hat Crew",
+    "ability": "[Main] Place up to 1 Character with a cost of 5 or less at\n                    the bottom of the owner's deck.",
+    "trigger": "\n                    \n                    [Trigger] Place up to 1 Character with a cost of 3 or less\n                    at the bottom of the owner's deck.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-060_p1",
+    "code": "OP03-060",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Kalifa",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-060_p1.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-060_p1.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": 4000,
+    "counter": "2000",
+    "color": "Purple",
+    "family": "Water Seven/Galley-La Company",
+    "ability": "[When Attacking] DON!! −1 (You may return the specified\n                    number of DON!! cards from your field to your DON!! deck.):\n                    Draw 2 cards and trash 1 card from your hand.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-060_p2",
+    "code": "OP03-060",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Kalifa",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-060_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-060_p2.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": 4000,
+    "counter": "2000",
+    "color": "Purple",
+    "family": "Water Seven/Galley-La Company",
+    "ability": "[When Attacking] DON!! −1 (You may return the specified\n                    number of DON!! cards from your field to your DON!! deck.):\n                    Draw 2 cards and trash 1 card from your hand.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-060_p3",
+    "code": "OP03-060",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Kalifa",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-060_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-060_p3.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": 4000,
+    "counter": "2000",
+    "color": "Purple",
+    "family": "Water Seven/Galley-La Company",
+    "ability": "[When Attacking] DON!! −1 (You may return the specified\n                    number of DON!! cards from your field to your DON!! deck.):\n                    Draw 2 cards and trash 1 card from your hand.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-079_p2",
+    "code": "OP03-079",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Vergo",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-079_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-079_p2.png?241220"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 5000,
+    "counter": "2000",
+    "color": "Black",
+    "family": "Navy/Donquixote Pirates",
+    "ability": "[DON!! x1] This Character cannot be K.O.'d in battle.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-079_p3",
+    "code": "OP03-079",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Vergo",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-079_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-079_p3.png?241220"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 5000,
+    "counter": "2000",
+    "color": "Black",
+    "family": "Navy/Donquixote Pirates",
+    "ability": "[DON!! x1] This Character cannot be K.O.'d in battle.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-079_p4",
+    "code": "OP03-079",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Vergo",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-079_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-079_p4.png?241220"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 5000,
+    "counter": "2000",
+    "color": "Black",
+    "family": "Navy/Donquixote Pirates",
+    "ability": "[DON!! x1] This Character cannot be K.O.'d in battle.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-089_p3",
+    "code": "OP03-089",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Brannew",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-089_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-089_p3.png?241220"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": 3000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[On Play] Look at 3 cards from the top of your deck; reveal\n                    up to 1 {Navy} type card other than [Brannew] and add it to\n                    your hand. Then, trash the rest.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-089_p4",
+    "code": "OP03-089",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Brannew",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-089_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-089_p4.png?241220"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": 3000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[On Play] Look at 3 cards from the top of your deck; reveal\n                    up to 1 {Navy} type card other than [Brannew] and add it to\n                    your hand. Then, trash the rest.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-089_p5",
+    "code": "OP03-089",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Brannew",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-089_p5.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-089_p5.png?241220"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": 3000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[On Play] Look at 3 cards from the top of your deck; reveal\n                    up to 1 {Navy} type card other than [Brannew] and add it to\n                    your hand. Then, trash the rest.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-089_p6",
+    "code": "OP03-089",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Brannew",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-089_p6.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-089_p6.png?241220"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": 3000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Navy",
+    "ability": "[On Play] Look at 3 cards from the top of your deck; reveal\n                    up to 1 {Navy} type card other than [Brannew] and add it to\n                    your hand. Then, trash the rest.",
+    "trigger": "",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-094_p1",
+    "code": "OP03-094",
+    "rarity": "UC",
+    "type": "EVENT",
+    "name": "Air Door",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-094_p1.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-094_p1.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Black",
+    "family": "CP9",
+    "ability": "[Main] If your Leader's type includes \"CP\", look at 5 cards\n                    from the top of your deck; play up to 1 Character card with\n                    a type including \"CP\" and a cost of 5 or less. Then, trash\n                    the rest.",
+    "trigger": "\n                    \n                    [Trigger] Play up to 1 black Character card with a cost of 3\n                    or less from your trash.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-094_p2",
+    "code": "OP03-094",
+    "rarity": "UC",
+    "type": "EVENT",
+    "name": "Air Door",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-094_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-094_p2.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Black",
+    "family": "CP9",
+    "ability": "[Main] If your Leader's type includes \"CP\", look at 5 cards\n                    from the top of your deck; play up to 1 Character card with\n                    a type including \"CP\" and a cost of 5 or less. Then, trash\n                    the rest.",
+    "trigger": "\n                    \n                    [Trigger] Play up to 1 black Character card with a cost of 3\n                    or less from your trash.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-094_p3",
+    "code": "OP03-094",
+    "rarity": "UC",
+    "type": "EVENT",
+    "name": "Air Door",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-094_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-094_p3.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Black",
+    "family": "CP9",
+    "ability": "[Main] If your Leader's type includes \"CP\", look at 5 cards\n                    from the top of your deck; play up to 1 Character card with\n                    a type including \"CP\" and a cost of 5 or less. Then, trash\n                    the rest.",
+    "trigger": "\n                    \n                    [Trigger] Play up to 1 black Character card with a cost of 3\n                    or less from your trash.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-108_p2",
+    "code": "OP03-108",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Charlotte Cracker",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-108_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-108_p2.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "Big Mom Pirates",
+    "ability": "[DON!! x1] If you have less Life cards than your opponent,\n                    this Character gains [Double Attack] and +1000 power.<br>(This\n                    card deals 2 damage.)",
+    "trigger": "\n                    \n                    [Trigger] You may trash 1 card from your hand: Play this\n                    card.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-108_p3",
+    "code": "OP03-108",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Charlotte Cracker",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-108_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-108_p3.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "Big Mom Pirates",
+    "ability": "[DON!! x1] If you have less Life cards than your opponent,\n                    this Character gains [Double Attack] and +1000 power.<br>(This\n                    card deals 2 damage.)",
+    "trigger": "\n                    \n                    [Trigger] You may trash 1 card from your hand: Play this\n                    card.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-110_p2",
+    "code": "OP03-110",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Charlotte Smoothie",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-110_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-110_p2.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "Big Mom Pirates",
+    "ability": "[When Attacking] You may add 1 card from the top or bottom\n                    of your Life cards to your hand: This Character gains +2000\n                    power during this battle.",
+    "trigger": "\n                    \n                    [Trigger] You may trash 1 card from your hand: Play this\n                    card.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-110_p3",
+    "code": "OP03-110",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Charlotte Smoothie",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-110_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-110_p3.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "Big Mom Pirates",
+    "ability": "[When Attacking] You may add 1 card from the top or bottom\n                    of your Life cards to your hand: This Character gains +2000\n                    power during this battle.",
+    "trigger": "\n                    \n                    [Trigger] You may trash 1 card from your hand: Play this\n                    card.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-110_p4",
+    "code": "OP03-110",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Charlotte Smoothie",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-110_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-110_p4.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "Big Mom Pirates",
+    "ability": "[When Attacking] You may add 1 card from the top or bottom\n                    of your Life cards to your hand: This Character gains +2000\n                    power during this battle.",
+    "trigger": "\n                    \n                    [Trigger] You may trash 1 card from your hand: Play this\n                    card.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-110_p5",
+    "code": "OP03-110",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Charlotte Smoothie",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-110_p5.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-110_p5.png?241220"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "Big Mom Pirates",
+    "ability": "[When Attacking] You may add 1 card from the top or bottom\n                    of your Life cards to your hand: This Character gains +2000\n                    power during this battle.",
+    "trigger": "\n                    \n                    [Trigger] You may trash 1 card from your hand: Play this\n                    card.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-113_p2",
+    "code": "OP03-113",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Charlotte Perospero",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-113_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-113_p2.png?241220"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "-",
+    "color": "Yellow",
+    "family": "Big Mom Pirates",
+    "ability": "[On K.O.] Look at 3 cards from the top of your deck; reveal\n                    up to 1 {Big Mom Pirates} type card and add it to your hand.\n                    Then, place the rest at the bottom of your deck in any\n                    order.",
+    "trigger": "\n                    \n                    [Trigger] You may trash 1 card from your hand: Play this\n                    card.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-113_p3",
+    "code": "OP03-113",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Charlotte Perospero",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-113_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-113_p3.png?241220"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "-",
+    "color": "Yellow",
+    "family": "Big Mom Pirates",
+    "ability": "[On K.O.] Look at 3 cards from the top of your deck; reveal\n                    up to 1 {Big Mom Pirates} type card and add it to your hand.\n                    Then, place the rest at the bottom of your deck in any\n                    order.",
+    "trigger": "\n                    \n                    [Trigger] You may trash 1 card from your hand: Play this\n                    card.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-116_p4",
+    "code": "OP03-116",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Shirahoshi",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-116_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-116_p4.png?241220"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": null,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "Merfolk",
+    "ability": "[On Play] Draw 3 cards and trash 2 cards from your hand.",
+    "trigger": "\n                    \n                    [Trigger] Play this card.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-116_p5",
+    "code": "OP03-116",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Shirahoshi",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-116_p5.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-116_p5.png?241220"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": null,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "Merfolk",
+    "ability": "[On Play] Draw 3 cards and trash 2 cards from your hand.",
+    "trigger": "\n                    \n                    [Trigger] Play this card.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-116_p6",
+    "code": "OP03-116",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Shirahoshi",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-116_p6.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-116_p6.png?241220"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": null,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "Merfolk",
+    "ability": "[On Play] Draw 3 cards and trash 2 cards from your hand.",
+    "trigger": "\n                    \n                    [Trigger] Play this card.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-121_p2",
+    "code": "OP03-121",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "Thunder Bolt",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121_p2.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121_p2.png?241220"
+    },
+    "cost": 2,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Yellow",
+    "family": "The Four Emperors/Big Mom Pirates",
+    "ability": "[Main] You may trash 1 card from the top of your Life cards:\n                    K.O. up to 1 of your opponent's Characters with a cost of 5\n                    or less.",
+    "trigger": "\n                    \n                    [Trigger] K.O. up to 1 of your opponent's Characters with a\n                    cost of 5 or less.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-121_p3",
+    "code": "OP03-121",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "Thunder Bolt",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121_p3.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121_p3.png?241220"
+    },
+    "cost": 2,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Yellow",
+    "family": "The Four Emperors/Big Mom Pirates",
+    "ability": "[Main] You may trash 1 card from the top of your Life cards:\n                    K.O. up to 1 of your opponent's Characters with a cost of 5\n                    or less.",
+    "trigger": "\n                    \n                    [Trigger] K.O. up to 1 of your opponent's Characters with a\n                    cost of 5 or less.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP03-121_p4",
+    "code": "OP03-121",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "Thunder Bolt",
+    "images": {
+      "small": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121_p4.png?241220",
+      "large": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121_p4.png?241220"
+    },
+    "cost": 2,
+    "attribute": {
+      "image": "https://en.onepiece-cardgame.comundefined"
+    },
+    "power": null,
+    "counter": "-",
+    "color": "Yellow",
+    "family": "The Four Emperors/Big Mom Pirates",
+    "ability": "[Main] You may trash 1 card from the top of your Life cards:\n                    K.O. up to 1 of your opponent's Characters with a cost of 5\n                    or less.",
+    "trigger": "\n                    \n                    [Trigger] K.O. up to 1 of your opponent's Characters with a\n                    cost of 5 or less.\n                  ",
+    "set": {
+      "name": "-ONE PIECE CARD THE BEST- [PRB-01]"
+    },
+    "notes": []
+  }
+]

@@ -1,15 +1,24 @@
 {
-  "name": "tcg-server",
-  "version": "1.0.50",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "bun run --watch src/index.ts"
-  },
-  "dependencies": {
-    "elysia": "latest"
-  },
-  "devDependencies": {
-    "bun-types": "latest"
-  },
-  "module": "src/index.js"
+    "name": "tcg-server",
+    "version": "1.0.50",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "bun db:studio & bun run --watch src/index.ts",
+        "db:generate": "drizzle-kit generate",
+        "db:migrate": "drizzle-kit migrate",
+        "db:push": "drizzle-kit push",
+        "db:studio": "drizzle-kit studio",
+        "fetch-cards": "bun run scripts/fetch-cards.ts",
+        "seed": "bun run scripts/seed.ts"
+    },
+    "dependencies": {
+        "drizzle-orm": "^0.45.1",
+        "elysia": "latest",
+        "postgres": "^3.4.8"
+    },
+    "devDependencies": {
+        "bun-types": "latest",
+        "drizzle-kit": "^0.31.8"
+    },
+    "module": "src/index.js"
 }

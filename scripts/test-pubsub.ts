@@ -1,9 +1,6 @@
-import dotenv from "dotenv";
 import { inArray } from "drizzle-orm";
-import { cards, db } from "../src/db";
-import { twitchPubSub } from "../src/services/twitch-pubsub";
-
-dotenv.config();
+import { cards, db } from "../server/db";
+import { twitchPubSub } from "../server/services/twitch-pubsub";
 
 const BASE_URL = process.env.BASE_URL ?? "http://localhost:3000";
 

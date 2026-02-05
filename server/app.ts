@@ -3,7 +3,7 @@ import { Elysia } from "elysia";
 import { apiRoutes } from "./routers";
 import { devRoutes } from "./routers/dev/router";
 
-export const app = new Elysia()
+export const app = new Elysia({ prefix: "/api" })
   .use(
     openapi({
       documentation: {
@@ -15,12 +15,5 @@ export const app = new Elysia()
       },
     }),
   )
-  .get("/", () => "Welcome on the TCG One Piece API")
   .use(apiRoutes)
-  // Development-only endpoint to generate test tokens
-  .use(devRoutes)
-  .listen(3000);
-
-console.log(
-  `🦊 Elysia is running at ${app.server?.protocol}://${app.server?.hostname}:${app.server?.port}`,
-);
+  .use(devRoutes);

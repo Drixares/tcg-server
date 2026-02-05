@@ -1,6 +1,6 @@
 import { treaty } from "@elysiajs/eden";
 import { beforeAll, describe, expect, it } from "bun:test";
-import { app } from "../src";
+import { app } from "../server/app";
 
 const client = treaty(app);
 
@@ -42,20 +42,11 @@ describe("TCG Server API", () => {
   // Get auth tokens before running tests
   beforeAll(async () => {
     const [viewerResponse, broadcasterResponse] = await Promise.all([
-      client.dev.token.get(),
-      client.dev.token.get({ query: { role: "broadcaster" } }),
+      client.api.dev.token.get(),
+      client.api.dev.token.get({ query: { role: "broadcaster" } }),
     ]);
     authToken = viewerResponse.data?.token;
     broadcasterToken = broadcasterResponse.data?.token;
-  });
-
-  describe("GET /welcome", () => {
-    it("returns a welcome response", async () => {
-      const { data, status } = await client.get();
-
-      expect(status).toBe(200);
-      expect(data).toBe("Welcome on the TCG One Piece API");
-    });
   });
 
   describe("Authentication", () => {
@@ -365,10 +356,9 @@ describe("TCG Server API", () => {
       });
 
       it("returns 422 when cards is not provided", async () => {
-        const { status } = await client.api.pubsub.broadcast.post(
-          {} as any,
-          { headers: broadcasterHeaders() },
-        );
+        const { status } = await client.api.pubsub.broadcast.post({} as any, {
+          headers: broadcasterHeaders(),
+        });
         expect(status).toBe(422);
       });
     });

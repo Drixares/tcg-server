@@ -1,7 +1,7 @@
+import { eq, sql } from "drizzle-orm";
 import { readFile } from "fs/promises";
 import { join } from "path";
-import { db, sets, cards, type NewCard } from "../src/db";
-import { eq, sql } from "drizzle-orm";
+import { cards, db, sets, type NewCard } from "../server/db";
 
 const DATA_FILE = join(import.meta.dir, "..", "data", "all-cards.json");
 

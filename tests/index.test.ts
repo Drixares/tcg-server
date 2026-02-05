@@ -6,10 +6,15 @@ const client = treaty(app);
 
 // Token for authenticated requests
 let authToken: string | undefined;
+let broadcasterToken: string | undefined;
 
 // Helper to create authenticated headers
 const authHeaders = () => ({
   authorization: `Bearer ${authToken}`,
+});
+
+const broadcasterHeaders = () => ({
+  authorization: `Bearer ${broadcasterToken}`,
 });
 
 const CARD_KEYS = [
@@ -34,10 +39,14 @@ const CARD_KEYS = [
 const PAGINATION_KEYS = ["page", "limit", "total", "totalPages", "data"];
 
 describe("TCG Server API", () => {
-  // Get auth token before running tests
+  // Get auth tokens before running tests
   beforeAll(async () => {
-    const { data } = await client.dev.token.get();
-    authToken = data?.token;
+    const [viewerResponse, broadcasterResponse] = await Promise.all([
+      client.dev.token.get(),
+      client.dev.token.get({ query: { role: "broadcaster" } }),
+    ]);
+    authToken = viewerResponse.data?.token;
+    broadcasterToken = broadcasterResponse.data?.token;
   });
 
   describe("GET /welcome", () => {
@@ -300,6 +309,68 @@ describe("TCG Server API", () => {
         expect(status).toBe(200);
         expect(Object.keys(data!)).toEqual(expect.arrayContaining(CARD_KEYS));
       }
+    });
+  });
+
+  describe("POST /api/pubsub/broadcast", () => {
+    const validCard = { id: "EB01-001", x: 0.5, y: 0.5 };
+
+    describe("authentication", () => {
+      it("returns 401 when no token is provided", async () => {
+        const { status } = await client.api.pubsub.broadcast.post({
+          cards: [validCard],
+        });
+        expect(status).toBe(401);
+      });
+
+      it("returns 401 when invalid token is provided", async () => {
+        const { status } = await client.api.pubsub.broadcast.post(
+          { cards: [validCard] },
+          { headers: { authorization: "Bearer invalid_token" } },
+        );
+        expect(status).toBe(401);
+      });
+    });
+
+    describe("authorization", () => {
+      it("returns 403 when viewer tries to broadcast", async () => {
+        const { status } = await client.api.pubsub.broadcast.post(
+          { cards: [validCard] },
+          { headers: authHeaders() },
+        );
+        expect(status).toBe(403);
+      });
+    });
+
+    describe("validation", () => {
+      it("returns 422 when cards array is empty", async () => {
+        const { status } = await client.api.pubsub.broadcast.post(
+          { cards: [] },
+          { headers: broadcasterHeaders() },
+        );
+        expect(status).toBe(422);
+      });
+
+      it("returns 422 when cards array has more than 10 items", async () => {
+        const cards = Array.from({ length: 11 }, (_, i) => ({
+          id: `card-${i}`,
+          x: 0,
+          y: 0,
+        }));
+        const { status } = await client.api.pubsub.broadcast.post(
+          { cards },
+          { headers: broadcasterHeaders() },
+        );
+        expect(status).toBe(422);
+      });
+
+      it("returns 422 when cards is not provided", async () => {
+        const { status } = await client.api.pubsub.broadcast.post(
+          {} as any,
+          { headers: broadcasterHeaders() },
+        );
+        expect(status).toBe(422);
+      });
     });
   });
 });

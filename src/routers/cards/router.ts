@@ -1,14 +1,17 @@
 import { Elysia } from "elysia";
+import { twitchAuth } from "../../middlewares/twitch-auth";
 import { cardsController } from "./handler";
 import { getCardByIdParamsSchema, getCardsQuerySchema } from "./validators";
 
 export const cardsRoutes = new Elysia({ prefix: "/cards" })
+  .use(twitchAuth)
   .get(
     "/",
     async ({ query }) => {
       return await cardsController.getAll(query);
     },
     {
+      auth: true,
       query: getCardsQuerySchema,
     },
   )
@@ -24,6 +27,7 @@ export const cardsRoutes = new Elysia({ prefix: "/cards" })
       return card;
     },
     {
+      auth: true,
       params: getCardByIdParamsSchema,
     },
   );

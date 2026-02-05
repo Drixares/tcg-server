@@ -25,26 +25,29 @@ export const twitchAuth = new Elysia({ name: "twitch-auth" })
       secret,
     }),
   )
-  .derive({ as: "scoped" }, async ({ jwt, headers }) => {
-    const authHeader = headers.authorization;
+  .macro({
+    auth: {
+      async resolve({ status, headers, jwt }) {
+        const authHeader = headers.authorization;
 
-    if (!authHeader?.startsWith("Bearer ")) {
-      return { twitchUser: null as TwitchJWTPayload | null };
-    }
+        if (!authHeader?.startsWith("Bearer ")) {
+          throw status(401, {
+            error: "Missing or invalid authorization token",
+          });
+        }
 
-    const token = authHeader.slice(7);
-    const payload = await jwt.verify(token);
+        const token = authHeader.slice(7);
+        const payload = await jwt.verify(token);
 
-    if (!payload) {
-      return { twitchUser: null as TwitchJWTPayload | null };
-    }
+        if (!payload) {
+          throw status(401, {
+            error: "Missing or invalid authorization token",
+          });
+        }
 
-    return {
-      twitchUser: payload as unknown as TwitchJWTPayload,
-    };
-  })
-  .onBeforeHandle({ as: "scoped" }, ({ twitchUser, status }) => {
-    if (!twitchUser) {
-      throw status(401, { error: "Missing or invalid authorization token" });
-    }
+        return {
+          twitchUser: payload as unknown as TwitchJWTPayload,
+        };
+      },
+    },
   });

@@ -2,7 +2,7 @@ import { mkdir, writeFile } from "fs/promises";
 import { join } from "path";
 
 const API_BASE_URL = "https://apitcg.com/api/one-piece/cards";
-const API_KEY = Bun.env.TCG_API_KEY;
+const API_KEY = process.env.TCG_API_KEY;
 const LIMIT = 100;
 const DATA_DIR = join(import.meta.dir, "..", "data");
 

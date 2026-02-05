@@ -3,11 +3,11 @@
   "version": "1.0.50",
   "scripts": {
     "test": "bun test",
-    "dev": "bun db:studio & bun run --watch src/index.ts",
+    "dev": "bun run db:studio & bun run --watch src/index.ts",
     "db:generate": "drizzle-kit generate",
     "db:migrate": "drizzle-kit migrate",
     "db:push": "drizzle-kit push",
-    "db:studio": "drizzle-kit studio",
+    "db:studio": "bunx drizzle-kit studio",
     "checks:fix": "prettier --write \"**/*.{ts,tsx,md,css}\"",
     "checks": "prettier --check \"**/*.{ts,md}\"",
     "fetch-cards": "bun run scripts/fetch-cards.ts",
@@ -18,15 +18,24 @@
     "@elysiajs/jwt": "^1.4.0",
     "@elysiajs/openapi": "^1.4.13",
     "@sinclair/typebox": "^0.34.47",
+    "dotenv": "^17.2.3",
     "drizzle-orm": "^0.45.1",
     "elysia": "^1.4.22",
+    "jsonwebtoken": "^9.0.3",
     "postgres": "^3.4.8",
     "zod": "^4.3.5"
   },
   "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.10",
     "bun-types": "latest",
     "drizzle-kit": "^0.31.8",
-    "prettier": "3.8.0"
+    "prettier": "3.8.0",
+    "@types/bun": "latest"
   },
-  "module": "src/index.js"
+  "module": "src/index.js",
+  "type": "module",
+  "private": true,
+  "peerDependencies": {
+    "typescript": "^5"
+  }
 }
